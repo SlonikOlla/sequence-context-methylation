@@ -1,0 +1,9 @@
+metric,value
+primary_CDS_nonpromoter_nonCGI,200070
+primary_CpG_island,78396
+primary_exon_noncoding_nonpromoter_nonCGI,172280
+primary_intergenic_nonCGI,1249317
+primary_intron_or_other_genic_nonpromoter_nonCGI,1786964
+primary_promoter_non_CGI,512973
+rows_BS,2000000
+rows_oxBS,2000000

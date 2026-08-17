@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software or reduced data, please cite the associated manuscript."
+title: "Sequence-context analysis of human CpG and non-CpG methylation"
+type: software
+authors:
+  - family-names: "Kovalchuk"
+    given-names: "Igor"
+version: "1.0.0"
+date-released: "2026-08-17"
+license: MIT
+repository-code: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/sequence-context-methylation"
+abstract: >-
+  Reproducibility package for analyses of local sequence-context effects on
+  human CpG and non-CpG methylation across WGBS datasets, motor-neuron CpH
+  methylation, and matched normal-tumor liver BS/oxBS data.
+keywords:
+  - DNA methylation
+  - CpG
+  - CpH
+  - DNMT1
+  - DNMT3A
+  - DNMT3B
+  - WGBS
+  - sequence context
+  - epigenomics
+  - cancer methylome
