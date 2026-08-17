@@ -8,7 +8,7 @@ authors:
 version: "1.0.0"
 date-released: "2026-08-17"
 license: MIT
-repository-code: "https://github.com/REPLACE_WITH_GITHUB_USERNAME/sequence-context-methylation"
+repository-code: "https://github.com/SlonikOlla/sequence-context-methylation"
 abstract: >-
   Reproducibility package for analyses of local sequence-context effects on
   human CpG and non-CpG methylation across WGBS datasets, motor-neuron CpH
