@@ -45,4 +45,3 @@ Reference genome: hg19/GRCh37. Annotation: GENCODE v19 comprehensive chromosome 
 Human lncRNA sequences: GENCODE v50 lncRNA transcript FASTA.
 Human mature miRNAs: miRBase release 22 mature FASTA.
 
-Before manuscript submission, add acquisition dates and SHA256 checksums for all locally downloaded primary files.
