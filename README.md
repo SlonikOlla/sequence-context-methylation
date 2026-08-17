@@ -27,14 +27,6 @@ The repository intentionally does **not** redistribute large ENCODE/GEO WGBS fil
 
 The core reduction scripts use the Python standard library. Statistical modeling uses pandas, NumPy, SciPy, statsmodels and patsy. See `requirements.txt`.
 
-## Before making the GitHub repository public
-
-1. Replace `REPLACE_WITH_GITHUB_USERNAME` in `CITATION.cff` with the GitHub account or organization name that will host the repository.
-2. Add all manuscript authors, in final author order, to `CITATION.cff`; add ORCID identifiers where available.
-3. Confirm the manuscript title in `README.md` and `CITATION.cff` after the final proofread.
-4. If desired, add local acquisition dates and SHA256 checksums for the large downloaded source files to `docs/DATASETS.md`. The public accessions themselves are already recorded.
-5. Upload the **contents of this folder** to the root of the GitHub repository.
-
 ## Citation
 
 Please cite the associated manuscript. GitHub will also display citation information from `CITATION.cff` once the repository is public.
